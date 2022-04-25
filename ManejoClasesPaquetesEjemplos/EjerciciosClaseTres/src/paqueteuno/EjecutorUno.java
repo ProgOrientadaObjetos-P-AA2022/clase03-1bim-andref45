@@ -13,7 +13,7 @@ import ejerciciosclasetres.Pelicula;
 public class EjecutorUno {
     public static void main(String[] args) {
         Pelicula p = new Pelicula();
-        p.version = 10;
-        System.out.println(p.version);
+        p.version = 10; 
+       System.out.println(p.version);
     }
 }
